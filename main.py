@@ -5,7 +5,7 @@ import random
 # Sample data - replace with your actual descriptions
 descriptions = {
     'Lenovo': {
-        'L450': ['Description 1 for Lenovo Type 1', 'Description 2 for Lenovo Type 1', 'Description 3 for Lenovo Type 1'],
+        'L450': ['Laptop Lenovo L450 3 Jutaan mulus no minus ada Garansi\n\nCore i5-5300U (Gen 5)\nRAM 4 GB DDR3\nSSD 128 GB\nLCD 14"\n\nBisa COD Sekitaran Garut\nUntuk luar kota Rekber via Tokped dan Shopee\nBisa kredit lewat akulaku dan shopee paylater\n\nKontak: 088221957963 (Adit)', 'Dijual laptop seken Lenovo L450 kondisi mulus no minus, siap jajap sekitaran garut.\nGaransi 1 bulan, aplikasi lengkap siap pakai. Bisa rekber lewat tokped dan shopee.\nBisa kredit lewat akulaku dan spaylater.\n\nMinat inbox atau WA 088221957963 (Aditya)', '#WTS\n#Jual\n\nLaptop seken Lenovo ThinkPad L450 \n\nSpek:\nIntel Core i5 Gen 5\nRAM 4 GB\nSSD 128 GB\nLayar 14 inci\nWindows 10\n\nKelengkapan:\nGaransi\nMouse\nAplikasi\nDus\nCharger\n\nMenerima COD untuk sekitaran Garut\nUntuk luar garut bisa rekber lewat tokopedia dan shopee.\n\nMinat inbox atau hub WA di 088221957963 (Adit)\n\nBisa juga kredit lewat akulaku dan shopee'],
         'L460': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'L490 8 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'L490 16 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
