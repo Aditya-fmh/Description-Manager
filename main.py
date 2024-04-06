@@ -33,6 +33,9 @@ descriptions = {
         'B553': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1'],
         'R73': ['Description 1 for Toshiba Type 2', 'Description 2 for Toshiba Type 2', 'Description 3 for Toshiba Type 2'],
         'R734': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
+    },
+    'General': {
+        'General': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1']
     }
 }
 
