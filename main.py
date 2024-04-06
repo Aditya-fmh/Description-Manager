@@ -5,16 +5,29 @@ import random
 # Sample data - replace with your actual descriptions
 descriptions = {
     'Lenovo': {
-        'Type 1': ['Description 1 for Lenovo Type 1', 'Description 2 for Lenovo Type 1', 'Description 3 for Lenovo Type 1'],
-        'Type 2': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
+        'L450': ['Description 1 for Lenovo Type 1', 'Description 2 for Lenovo Type 1', 'Description 3 for Lenovo Type 1'],
+        'L460': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'L490': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T420': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T450': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T460': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T460s': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T470': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T470s': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'X240 HDD': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'X240 SSD': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'X250 HDD': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'X250 SSD': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'X280': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
     'DELL': {
-        'Type 1': ['Description 1 for DELL Type 1', 'Description 2 for DELL Type 1', 'Description 3 for DELL Type 1'],
-        'Type 2': ['Description 1 for DELL Type 2', 'Description 2 for DELL Type 2', 'Description 3 for DELL Type 2']
+        '5490': ['Description 1 for DELL Type 1', 'Description 2 for DELL Type 1', 'Description 3 for DELL Type 1'],
+        'E7470': ['Description 1 for DELL Type 2', 'Description 2 for DELL Type 2', 'Description 3 for DELL Type 2']
     },
     'Toshiba': {
-        'Type 1': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1'],
-        'Type 2': ['Description 1 for Toshiba Type 2', 'Description 2 for Toshiba Type 2', 'Description 3 for Toshiba Type 2']
+        'B553': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1'],
+        'R73': ['Description 1 for Toshiba Type 2', 'Description 2 for Toshiba Type 2', 'Description 3 for Toshiba Type 2'],
+        'R734': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     }
 }
 
