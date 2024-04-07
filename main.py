@@ -35,14 +35,14 @@ descriptions = {
         'R734': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
     'General': {
-        'General': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1']
+        'General': ['JUAL LAPTOP SEKEN MURAH BERGARANSI HARGA MULAI DARI 1,9JT-AN, TERSEDIA UNTUK BERBAGAI MACAM KEBUTUHAN SEPERTI SEKOLAH, KULIAH, KERJA, DESAIN, GAMING.\n\nBISA COD SEKITARAN GARUT DAN REKBER TOKPED/SHOPEE UNTUK LUAR GARUT.\n\nBISA JUGA KREDIT LEWAT AKULAKU DAN SHOPEE PAYLATER. MINAT WA ATAU HUB 088321957963 (ADIT)', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1']
     }
 }
 
 class MarketplaceApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('Marketplace Description App')
+        self.setWindowTitle('Æ')
         self.layout = QVBoxLayout()
 
         self.brand_combo = QComboBox()
