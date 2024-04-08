@@ -30,7 +30,7 @@ descriptions = {
         'E7470': ['Description 1 for DELL Type 2', 'Description 2 for DELL Type 2', 'Description 3 for DELL Type 2']
     },
     'Toshiba': {
-        'B553': ['Description 1 for Toshiba Type 1', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1'],
+        'B553': ['LAPTOP TOSHIBA B553 2 JUTAAN COCOK UNTUK KANTOR, KASIR, KULIAH, ADMIN\n\nCore i5 Gen 3\nRAM 4\nHDD 500\n\nGaransi 1 bulan\nSiap COD sekitaran garut, luar garut rekber tokped/shopee\nMenerima kredit via Akulaku dan Spaylater\nCp: 088221957963', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1'],
         'R73': ['Description 1 for Toshiba Type 2', 'Description 2 for Toshiba Type 2', 'Description 3 for Toshiba Type 2'],
         'R734': ['WTS LAPTOP TOSHIBA R734 MASIH MULUS PEMAKAIAN KANTORAN. SPEK CORE I5 RAM 4GB SSD 128GB SUDAH WINDOWS 10 COCOK UNTUK KEPERLUAN RINGAN ATAU BUAT YANG MAU/MASIH BELAJAR LAPTOP.\n\nCP: 088221957963 (ADITYA)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
