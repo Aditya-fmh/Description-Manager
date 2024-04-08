@@ -35,7 +35,7 @@ descriptions = {
         'R734': ['WTS LAPTOP TOSHIBA R734 MASIH MULUS PEMAKAIAN KANTORAN. SPEK CORE I5 RAM 4GB SSD 128GB SUDAH WINDOWS 10 COCOK UNTUK KEPERLUAN RINGAN ATAU BUAT YANG MAU/MASIH BELAJAR LAPTOP.\n\nCP: 088221957963 (ADITYA)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
     'General': {
-        'General': ['JUAL LAPTOP SEKEN MURAH BERGARANSI HARGA MULAI DARI 1,9JT-AN, TERSEDIA UNTUK BERBAGAI MACAM KEBUTUHAN SEPERTI SEKOLAH, KULIAH, KERJA, DESAIN, GAMING.\n\nBISA COD SEKITARAN GARUT DAN REKBER TOKPED/SHOPEE UNTUK LUAR GARUT.\n\nBISA JUGA KREDIT LEWAT AKULAKU DAN SHOPEE PAYLATER. MINAT WA ATAU HUB 088321957963 (ADIT)', 'Description 2 for Toshiba Type 1', 'Description 3 for Toshiba Type 1']
+        'General': ['JUAL LAPTOP SEKEN MURAH BERGARANSI HARGA MULAI DARI 1,9JT-AN, TERSEDIA UNTUK BERBAGAI MACAM KEBUTUHAN SEPERTI SEKOLAH, KULIAH, KERJA, DESAIN, GAMING.\n\nBISA COD SEKITARAN GARUT DAN REKBER TOKPED/SHOPEE UNTUK LUAR GARUT.\n\nBISA JUGA KREDIT LEWAT AKULAKU DAN SHOPEE PAYLATER. MINAT WA ATAU HUB 088321957963 (ADIT)', 'Sedia Laptop dan Komputer seken kantoran, kondisi rata2 80-90%. Pc fullset/batangan. Laptop fullset. Semua ada garansi service selama 1 bulan dan software selama 2 bulan.\n\nTersedia merk:\n> Lenovo\n> DELL\n> Toshiba\n> Acer\n\nMetode pembayaran fleksibel:\n- Cash\n- Transfer\n- Rekber tokped/shopee\n- Kredit akulaku/spaylater\nMinat hub WA 088221957963 (ADIT)', 'Description 3 for Toshiba Type 1']
     }
 }
 
