@@ -11,8 +11,8 @@ descriptions = {
         'L490 16 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'T420': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'T450': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
-        'T460s 8 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
-        'T460s 16 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T460s 8 GB': ['#WTS\n#laptop\n\nLenovo ThinkPad T460s\nLaptop seken ex-kantoran, bodi masih mulus no minus dan bergaransi.\n\nSpesifikasi:\nIntel Core i5 Gen 6\nRAM 8 GB/16 GB\nSSD 256 GB\nLCD 14"\nWindows 10/11\n\nKelengkapan:\nLaptop\nDus\nMouse\nKartu Garansi\n\nMinat hub WA 088221957963 (Aditya)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
+        'T460s 16 GB': ['#WTS\n#laptop\n\nLenovo ThinkPad T460s\nLaptop seken ex-kantoran, bodi masih mulus no minus dan bergaransi.\n\nSpesifikasi:\nIntel Core i5 Gen 6\nRAM 8 GB/16 GB\nSSD 256 GB\nLCD 14"\nWindows 10/11\n\nKelengkapan:\nLaptop\nDus\nMouse\nKartu Garansi\n\nMinat hub WA 088221957963 (Aditya)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'T470': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'T470s 8 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'T470s 12 GB': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
@@ -23,7 +23,7 @@ descriptions = {
         'X250 RAM 8 GB HDD 500': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'X250 RAM 8 GB SSD 256': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
         'X250 RAM 8 GB SSD 512': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2'],
-        'X280': ['Description 1 for Lenovo Type 2', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
+        'X280': ['Gaduh Laptop Lenovo X280 seken no minus, hoyong di cash. Kondisi + spesifikasi sesuai gambar. Tiasa COD sekitaran garut.\n\nMinat inbox atau WA 088221957963 (Adiya)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
     'DELL': {
         '5490': ['Description 1 for DELL Type 1', 'Description 2 for DELL Type 1', 'Description 3 for DELL Type 1'],
@@ -35,7 +35,7 @@ descriptions = {
         'R734': ['WTS LAPTOP TOSHIBA R734 MASIH MULUS PEMAKAIAN KANTORAN. SPEK CORE I5 RAM 4GB SSD 128GB SUDAH WINDOWS 10 COCOK UNTUK KEPERLUAN RINGAN ATAU BUAT YANG MAU/MASIH BELAJAR LAPTOP.\n\nCP: 088221957963 (ADITYA)', 'Description 2 for Lenovo Type 2', 'Description 3 for Lenovo Type 2']
     },
     'General': {
-        'General': ['JUAL LAPTOP SEKEN MURAH BERGARANSI HARGA MULAI DARI 1,9JT-AN, TERSEDIA UNTUK BERBAGAI MACAM KEBUTUHAN SEPERTI SEKOLAH, KULIAH, KERJA, DESAIN, GAMING.\n\nBISA COD SEKITARAN GARUT DAN REKBER TOKPED/SHOPEE UNTUK LUAR GARUT.\n\nBISA JUGA KREDIT LEWAT AKULAKU DAN SHOPEE PAYLATER. MINAT WA ATAU HUB 088321957963 (ADIT)', 'Sedia Laptop dan Komputer seken kantoran, kondisi rata2 80-90%. Pc fullset/batangan. Laptop fullset. Semua ada garansi service selama 1 bulan dan software selama 2 bulan.\n\nTersedia merk:\n> Lenovo\n> DELL\n> Toshiba\n> Acer\n\nMetode pembayaran fleksibel:\n- Cash\n- Transfer\n- Rekber tokped/shopee\n- Kredit akulaku/spaylater\nMinat hub WA 088221957963 (ADIT)', 'Description 3 for Toshiba Type 1']
+        'General': ['JUAL LAPTOP SEKEN MURAH BERGARANSI HARGA MULAI DARI 1,9JT-AN, TERSEDIA UNTUK BERBAGAI MACAM KEBUTUHAN SEPERTI SEKOLAH, KULIAH, KERJA, DESAIN, GAMING.\n\nBISA COD SEKITARAN GARUT DAN REKBER TOKPED/SHOPEE UNTUK LUAR GARUT.\n\nBISA JUGA KREDIT LEWAT AKULAKU DAN SHOPEE PAYLATER. MINAT WA ATAU HUB 088321957963 (ADIT)', 'Sedia Laptop dan Komputer seken kantoran, kondisi rata2 80-90%. Pc fullset/batangan. Laptop fullset. Semua ada garansi service selama 1 bulan dan software selama 2 bulan.\n\nTersedia merk:\n> Lenovo\n> DELL\n> Toshiba\n> Acer\n\nMetode pembayaran fleksibel:\n- Cash\n- Transfer\n- Rekber tokped/shopee\n- Kredit akulaku/spaylater\nMinat hub WA 088221957963 (ADIT)', 'Ready Laptop seken ex-kantor mulus no minus dan bergaransi. Tersedia untuk berbagai kebutuhan mulai dari sekolah, kuliah, kerja dan gaming ringan.\n\nTersedia berbagai merk mulai dari:\n- DELL\n- Lenovo\n- Toshiba\n\nKelengkapan Laptop:\n- Laptop\n- Charger\n- Dus\n- Kartu Garansi\n\nPembayaran bisa melalui:\n- Cash\n- Transfer\n- Kredit (Akulaku dan Spaylater)\n- Rekber (Tokopedia dan Shopee)\n- COD (Khusus daerah sekitar garut)\n\nMinat hubungi WA 088221957963 (Aditya)']
     }
 }
 
